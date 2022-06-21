@@ -1,2 +1,11 @@
-# deep-learning-project
-Deep Learning Fundamentals
+#MadeAtMetis | Deep Learning Deliverables
+
+# Project Name TBD
+
+
+* [Proposal]()
+* [MVP]()
+* [Slides]()
+* [Summary]()
+* [Model]()
+
