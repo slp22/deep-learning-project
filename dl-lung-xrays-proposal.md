@@ -14,7 +14,7 @@
 * What is an individual sample/unit of analysis in this project?
     * One x-ray
 * What characteristics/features do you expect to work with?
-    * 
+    * ???
 * If modeling, what will you predict as your target?
     * Normal lung
     * Pneumonia-Bacterial Lung
@@ -30,5 +30,5 @@
 
 ## MVP Goal
 * What would a minimum viable product (MVP) look like for this project?
-    * Exploratory data analysis
+    * ???
     *  
