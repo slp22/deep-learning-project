@@ -4,8 +4,8 @@
 
 
 * [Proposal]()
-* [MVP]()
-* [Slides]()
-* [Summary]()
-* [Model]()
+* MVP
+* Slides
+* Summary
+* Model
 
