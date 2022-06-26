@@ -1,9 +1,9 @@
 #MadeAtMetis | Deep Learning Deliverables
 
-# Project Name TBD
+# Diabetic Retinopathy
 
 
-* [Proposal]()
+* [Proposal](https://github.com/slp22/deep-learning-project/blob/main/dl-diabetic-retinopathy-proposal.md)
 * MVP
 * Slides
 * Summary

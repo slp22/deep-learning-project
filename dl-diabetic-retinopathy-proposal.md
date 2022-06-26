@@ -1,6 +1,6 @@
 #### Deep Learning | Project Proposal
 
-# Lung X-Rays   
+# Diabetic Retinopathy   
 
 ## Question
 * What is the question behind your analysis or model and what practical impact will your work have?
