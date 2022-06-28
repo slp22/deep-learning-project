@@ -5,8 +5,8 @@
 ## Question
 * What is the question behind your analysis or model and what practical impact will your work have?
     * How well can a neural network diagnose diabetic retinopathy?  
-* Who is your client and how will that client benefits from exploring this question or building this model/system?
-    * The client, the National Eye Institute, part of the National Institutes of Health, wants a model that can identify [diabetic retinopathy](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/diabetic-retinopathy) cases in [clinical trials](https://iovs.arvojournals.org/article.aspx?articleid=2565675). 
+* Who is your client and how will that client benefit from exploring this question or building this model/system?
+    * The client, the National Eye Institute, part of the National Institutes of Health, wants a model that can quickly identify [diabetic retinopathy](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/diabetic-retinopathy) in patients participating in early phase [clinical trials](https://iovs.arvojournals.org/article.aspx?articleid=2565675). 
 
 ## Data Description
 * What dataset(s) do you plan to use, and how will you obtain the data? 
@@ -21,18 +21,18 @@
 * What is an individual sample/unit of analysis in this project?
     * One retinal image (.jpg format)
 * What characteristics/features do you expect to work with?
-    * Image pixel, 3 rgb channels, height x width of image
+    * Image pixel, RGB channels, image height & width
 * If modeling, what will you predict as your target?
     * Classify each image as one of five classes: normal, mild, moderate, proliferative, or severe. 
     
 ## Tools
 * How do you intend to meet the tools requirement of the project?
     * Python, numpy, pandas, sklearn 
-    * TensorFlow/Keras
+    * TensorFlow, Keras
 * Are you planning in advance to need or use additional tools beyond those required?
     * None at this time.
 
 ## MVP Goal
 * What would a minimum viable product (MVP) look like for this project?
-    * simple neural network classification of 1 of 2 classes
+    * Baseline model (neural network classification of 1 of 2 classes) with recall and AUC ROC as error metrics for model performance evaluation.
     
