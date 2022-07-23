@@ -34,5 +34,6 @@
 
 ## MVP Goal
 * What would a minimum viable product (MVP) look like for this project?
-    * Baseline model (neural network classification of 1 of 2 classes) with recall and AUC ROC as error metrics for model performance evaluation.
+    * Baseline model (logistic regression or random forest)
+    * Simple model (neural network binary classification) with recall and AUC ROC as error metrics for model performance evaluation.
     
