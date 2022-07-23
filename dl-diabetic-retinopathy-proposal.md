@@ -4,7 +4,7 @@
 
 ## Question
 * What is the question behind your analysis or model and what practical impact will your work have?
-    * How well can a neural network diagnose diabetic retinopathy?  
+    * How well can a neural network diagnose diabetic retinopathy from a retinal image?  
 * Who is your client and how will that client benefit from exploring this question or building this model/system?
     * The client, the National Eye Institute, part of the National Institutes of Health, wants a model that can quickly identify [diabetic retinopathy](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/diabetic-retinopathy) in patients participating in early phase [clinical trials](https://iovs.arvojournals.org/article.aspx?articleid=2565675). 
 
